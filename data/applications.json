@@ -1,0 +1,68 @@
+[
+  {
+    "application_id": "sample-app-001",
+    "candidate_name": "Aisha Khan",
+    "school": "Sample Technical University",
+    "program": "BS Computer Science",
+    "submitted_at": "2026-06-10T09:15:00Z",
+    "artifact_url": "https://example.com/aisha-revenue-tool",
+    "technical_evidence": "Built a small scheduling service with tests and a PostgreSQL-backed event log.",
+    "compensation_bid_usd_month": 1800,
+    "ct_overlap": "08:00-13:00 CT"
+  },
+  {
+    "application_id": "sample-app-002",
+    "candidate_name": "Bilal Ahmed",
+    "school": "Sample Business School",
+    "program": "BBA Analytics",
+    "submitted_at": "2026-06-10T10:05:00Z",
+    "artifact_url": "",
+    "technical_evidence": "Claims automation experience but did not provide a working artifact.",
+    "compensation_bid_usd_month": 1200,
+    "ct_overlap": "10:00-14:00 CT"
+  },
+  {
+    "application_id": "sample-app-003",
+    "candidate_name": "Sara Perera",
+    "school": "Sample Engineering Institute",
+    "program": "BS Software Engineering",
+    "submitted_at": "2026-06-08T16:40:00Z",
+    "artifact_url": "https://example.com/sara-agent-debugger",
+    "technical_evidence": "Built a workflow debugger that replays failed jobs and explains state transitions.",
+    "compensation_bid_usd_month": 2200,
+    "ct_overlap": "07:00-12:00 CT"
+  },
+  {
+    "application_id": "sample-app-004",
+    "candidate_name": "Omar Rahman",
+    "school": "Sample Technical University",
+    "program": "MS Data Science",
+    "submitted_at": "2026-06-01T08:00:00Z",
+    "artifact_url": "https://example.com/omar-ranking-model",
+    "technical_evidence": "Built a ranking notebook but did not include tests or rerun instructions.",
+    "compensation_bid_usd_month": 2500,
+    "ct_overlap": ""
+  },
+  {
+    "application_id": "sample-app-005",
+    "candidate_name": "Zara Malik",
+    "school": "Sample Technical University",
+    "program": "BS Software Engineering",
+    "submitted_at": "2026-06-11T14:00:00Z",
+    "artifact_url": "https://example.com/zara-pipeline",
+    "technical_evidence": "Built an ETL pipeline with retry logic and idempotent writes.",
+    "compensation_bid_usd_month": 0,
+    "ct_overlap": "09:00-15:00 CT"
+  },
+  {
+    "application_id": "sample-app-001",
+    "candidate_name": "Aisha Khan",
+    "school": "Sample Technical University",
+    "program": "BS Computer Science",
+    "submitted_at": "2026-06-10T09:15:00Z",
+    "artifact_url": "https://example.com/aisha-revenue-tool",
+    "technical_evidence": "Duplicate submission — same candidate resubmitted.",
+    "compensation_bid_usd_month": 1800,
+    "ct_overlap": "08:00-13:00 CT"
+  }
+]
